@@ -1,0 +1,33 @@
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 01\new project eng aliaa\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 01\new project eng aliaa\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 01\new project eng aliaa\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 01\new project eng aliaa\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 01\new project eng aliaa\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 01\new project eng aliaa\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 01\new project eng aliaa\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 01\new project eng aliaa\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 01\new project eng aliaa\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 01\new project eng aliaa\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 01\new project eng aliaa\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 02\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 02\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 02\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 02\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 02\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 02\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 02\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 02\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 02\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 02\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 02\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 03\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 03\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 03\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 03\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 03\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 03\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 03\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 03\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 03\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 03\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+D:\Route\.NET\material & assignments\08 ASP.NET Core Web APIs\Session 03\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
